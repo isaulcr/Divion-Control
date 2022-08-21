@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divion_Control_R", "Divion_Control_R\Divion_Control_R.csproj", "{BDCE0887-B25A-4B82-9998-435D63CC144D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCE0887-B25A-4B82-9998-435D63CC144D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCE0887-B25A-4B82-9998-435D63CC144D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCE0887-B25A-4B82-9998-435D63CC144D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCE0887-B25A-4B82-9998-435D63CC144D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A998DF25-55B4-4231-B71E-AC8B31EA4841}
+	EndGlobalSection
+EndGlobal
